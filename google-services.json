@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943765980472",
+    "firebase_url": "https://cash-by-trash-79e46.firebaseio.com",
+    "project_id": "cash-by-trash-79e46",
+    "storage_bucket": "cash-by-trash-79e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943765980472:android:dd2071f8a49990ed",
+        "android_client_info": {
+          "package_name": "com.cashbytrash.cbt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943765980472-ddgvnrqjub6fcs1huaqnujrd4ko54m4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashbytrash.cbt",
+            "certificate_hash": "72ef80d3d9cb65c3c34669738d2272028a47978b"
+          }
+        },
+        {
+          "client_id": "943765980472-cv9rm8qnfes90ba6ih29gfkgjtbqa13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEiur2FPnVbHn7iI4uGMo62njNaIT-Fbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943765980472-cv9rm8qnfes90ba6ih29gfkgjtbqa13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
